@@ -1,0 +1,47 @@
+body {
+    background-image: url(img/Rick&.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+h1{
+    color: white;
+    background-color: rgb(94, 7, 7, 0.5);
+    font-size: 50px;
+    text-align: center;
+    font-family: monospace;
+    padding-bottom: 20px;
+}
+
+label{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+    background-color: rgb(189, 14, 14,0.4);
+
+}
+
+input{
+    width: 50%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid yellow;
+    border-radius: 5px;
+    font-size: 25px;
+
+}
+
+button{
+    display: block;
+    width: 25%;
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    border-radius: 5px;
+    
+}
